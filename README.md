@@ -12,7 +12,7 @@ El código fuente se organiza bajo el estándar de paquetes de Java:
 - `src/com/yumjuice/models/`: Clases de dominio y entidades del negocio.
 - `src/com/yumjuice/controllers/`: Clases gestoras y lógica operacional.
 - `src/com/yumjuice/structures/`: Implementación de estructuras de datos dinámicas (PriorityQueue).
-- `src/com/yumjuice/main/`: Clase de entrada (`Main.java`) para la ejecución del sistema.
+- `src/com/yumjuice/main/`: Clase de entrada (`com.yumjuice.main.Main`) para la ejecución del sistema.
 - `docs/`: Documentación técnica y diagramas UML de respaldo.
 
 ## Instrucciones para Ejecutar
