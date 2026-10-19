@@ -1,6 +1,6 @@
 # Yum Juice System
 
-Sistema de gestión operativa e inventarios desarrollado para el emprendimiento *Yum Juice*, enfocado en la optimización de procesos mediante estructuras de datos y algoritmos en Java.
+Sistema de gestión operativa desarrollado para el emprendimiento Yum Juice, orientado a la gestión de personal y horarios, inventario, proveedores, mantenimiento de equipos y ventas, mediante la aplicación de estructuras de datos y algoritmos en Java.
 
 ## Integrantes del Equipo
 * Fareed Guzmán
