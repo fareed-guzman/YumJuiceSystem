@@ -35,7 +35,7 @@ El código fuente se organiza bajo el estándar de paquetes de Java:
 
 ## Documentación
 
-- [Informe técnico (PDF)](docs/Avance_Proyecto_Programacion_P1.pdf)
+- [Informe técnico (PDF)](docs/Informe_Tecnico_Avance_1.pdf)
 - [Diagrama UML preliminar](docs/UML.md)
 
 ## Instrucciones para Ejecutar
