@@ -18,4 +18,4 @@ El código fuente se organiza bajo el estándar de paquetes de Java:
 ## Instrucciones para Ejecutar
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/fareed-guzman/YumJuiceSystem.git](https://github.com/fareed-guzman/YumJuiceSystem.git)
+   git clone https://github.com/fareed-guzman/YumJuiceSystem.git
